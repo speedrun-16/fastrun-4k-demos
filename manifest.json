@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "98579c68b3eed9da12ce07e23aaaf635256032afa52a7c9bfa5d86a1b29d9f5b",
+    "uid": "ME90OS506",
+    "map": "speedrun_chemical",
+    "category": 13,
+    "time": 2151,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-12T17:41:06.000Z",
+    "zipFilename": "00002151_STEAM_0_1_447056338_20251112-174106.zip",
+    "path": "speedrun_chemical/00002151_STEAM_0_1_447056338_20251112-174106.zip",
+    "archivedAt": "2025-11-12T18:00:23.727Z"
+  },
+  {
     "demFileHash": "64235f1d9f587b5139aecc1a61daf87f573658fb8c391546b97df913df62719e",
     "uid": "9BLNHLCMI",
     "map": "speedrun_raduga_fix",
