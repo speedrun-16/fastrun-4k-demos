@@ -10,10 +10,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
+| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
-- Total Maps: **5**
-- Total Demos: **5**
+- Total Maps: **6**
+- Total Demos: **6**
