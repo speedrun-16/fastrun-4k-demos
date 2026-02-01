@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "cfab4b09b50b863868a98ce0c2e4c72762a87c07bffaa284d45cb469204eb5d5",
+    "uid": "TDHU38WZD",
+    "map": "speedrun_record",
+    "category": 13,
+    "time": 2432,
+    "playerSteamId": "STEAM_0:1:499355704",
+    "timestamp": "2026-02-01T15:27:18.000Z",
+    "zipFilename": "00002432_STEAM_0_1_499355704_20260201-152718.zip",
+    "path": "speedrun_record/00002432_STEAM_0_1_499355704_20260201-152718.zip",
+    "archivedAt": "2026-02-01T18:00:18.545Z"
+  },
+  {
     "demFileHash": "358c37907ccddcb8fac8aaa02eda8a1c4bafeb75648fca0b5d7c5771b54902b6",
     "uid": "FAIEE75VJ",
     "map": "speedrun_ramp-master_ex",
