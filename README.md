@@ -9,7 +9,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-11-11 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
+| [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-10 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2026-05-10 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
@@ -19,5 +21,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **9**
-- Total Demos: **9**
+- Total Maps: **11**
+- Total Demos: **11**
