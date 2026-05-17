@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "485d505a00b60915b3852b37b91fcd0a427529f932954e98096a4ebd5b1751f2",
+    "uid": "ZIRWRRVD3",
+    "map": "speedrun_jeans_short",
+    "category": 13,
+    "time": 1756,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-17T14:37:25.000Z",
+    "zipFilename": "00001756_STEAM_0_1_87291981_20260517-143725.zip",
+    "path": "speedrun_jeans_short/00001756_STEAM_0_1_87291981_20260517-143725.zip",
+    "archivedAt": "2026-05-17T18:00:21.625Z"
+  },
+  {
     "demFileHash": "506f59b7b79d7194a1c22f6f58e12c73f1cfb30264cbb26240a22480286d8347",
     "uid": "STBLJH1DF",
     "map": "speedrun_miqu",
