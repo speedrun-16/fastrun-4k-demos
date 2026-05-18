@@ -10,6 +10,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
 | [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-10 |
+| [speedrun_hearts](./speedrun_hearts) | 1 | 2026-05-18 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2026-05-17 |
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2026-05-15 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
@@ -23,5 +24,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **13**
-- Total Demos: **13**
+- Total Maps: **14**
+- Total Demos: **14**
