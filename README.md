@@ -1,30 +1,23 @@
-# Category Archive: 4K Run
+# 4K Run Demo Archive
 
-This repository is a structured archive for personal best demos achieved in the **4K Run** category.
+Personal best demo archive for the 4K Run category.
 
-## Map List
+## Statistics
 
-| Map Name | Demos | Last Updated |
-| :--- | :---- | :--- |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 2 | 2026-06-01 |
-| [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
-| [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
-| [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-10 |
-| [speedrun_evidenz2](./speedrun_evidenz2) | 1 | 2026-05-19 |
-| [speedrun_hearts](./speedrun_hearts) | 1 | 2026-05-18 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2026-05-17 |
-| [speedrun_miqu](./speedrun_miqu) | 1 | 2026-05-15 |
-| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2026-05-10 |
-| [speedrun_pupsik](./speedrun_pupsik) | 1 | 2026-06-07 |
-| [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
-| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
-| [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
-| [speedrun_runners](./speedrun_runners) | 1 | 2025-09-14 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2026-05-05 |
+| Metric | Value |
+| :-- | --: |
+| Maps | 16 |
+| Archived PBs | 18 |
+| Latest Update | 2026-06-07 |
 
----
+## Structure
 
-### Statistics
-- Total Maps: **16**
-- Total Demos: **18**
+| Path | Contents |
+| :-- | :-- |
+| `manifest.json` | Repository summary and per-map manifest pointers |
+| `maps/<map>/manifest.json` | Runs archived for one map |
+| `maps/<map>/*.zip` | Demo archive files |
+
+## Access
+
+Use `manifest.json` as the entry point. Each map manifest contains archive filenames and byte ranges for files inside each zip.

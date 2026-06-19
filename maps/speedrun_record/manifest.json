@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_record",
+  "updatedAt": "2026-06-19T06:03:21.547714Z",
+  "runs": [
+    {
+      "uid": "TDHU38WZD",
+      "rid": 31664,
+      "hash": "cfab4b09b50b863868a98ce0c2e4c72762a87c07bffaa284d45cb469204eb5d5",
+      "t": 2432,
+      "sid": "STEAM_0:1:499355704",
+      "at": "2026-02-01T15:27:18Z",
+      "zip": "00002432_STEAM_0_1_499355704_20260201-152718.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_record-20260201-#TDHU38WZD.analysis.json",
+          "off": 79,
+          "size": 101023
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_record-20260201-#TDHU38WZD.dem",
+          "off": 101171,
+          "size": 53566
+        },
+        {
+          "type": "replay",
+          "name": "31664.replay.xz",
+          "off": 154782,
+          "size": 7140
+        }
+      ]
+    }
+  ]
+}

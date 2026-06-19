@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_w00dfun",
+  "updatedAt": "2026-06-19T06:03:21.547714Z",
+  "runs": [
+    {
+      "uid": "P9QPENWIL",
+      "rid": 48891,
+      "hash": "884a9d99ad02f605536c7e2f0bc995cf1bf69d23b94f87fd073154a47f582838",
+      "t": 2569,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-05T20:31:12Z",
+      "zip": "00002569_STEAM_0_1_87291981_20260505-203112.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_w00dfun-20260505-#P9QPENWIL.analysis.json",
+          "off": 80,
+          "size": 91344
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_w00dfun-20260505-#P9QPENWIL.dem",
+          "off": 91494,
+          "size": 49794
+        },
+        {
+          "type": "replay",
+          "name": "48891.replay.xz",
+          "off": 141333,
+          "size": 8652
+        }
+      ]
+    }
+  ]
+}
