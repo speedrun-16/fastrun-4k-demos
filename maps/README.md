@@ -6,9 +6,9 @@ Map-level archive directory for the 4K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 17 |
-| Archived PBs | 19 |
-| Latest Update | 2026-08-04 |
+| Maps | 18 |
+| Archived PBs | 20 |
+| Latest Update | 2026-08-13 |
 
 ## Structure
 

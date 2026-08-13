@@ -1,7 +1,7 @@
 {
   "category": 13,
   "categoryName": "4K Run",
-  "updatedAt": "2026-08-04T12:00:03.731Z",
+  "updatedAt": "2026-08-13T18:00:10.490Z",
   "maps": {
     "speedrun_calisto2k": {
       "n": 1,
@@ -74,6 +74,12 @@
       "best": 2791,
       "at": "2025-09-14T04:55:45Z",
       "manifest": "maps/speedrun_runners/manifest.json"
+    },
+    "speedrun_replay_return": {
+      "n": 1,
+      "best": 2716,
+      "at": "2026-08-13T14:42:28.000Z",
+      "manifest": "maps/speedrun_replay_return/manifest.json"
     },
     "speedrun_hearts": {
       "n": 1,
