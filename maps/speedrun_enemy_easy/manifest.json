@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_enemy_easy",
+  "updatedAt": "2026-08-15T18:00:06.132Z",
+  "runs": [
+    {
+      "uid": "PS4Y90BRJ",
+      "rid": 82412,
+      "hash": "3effb95a38308699a1ea8727e4969390d2493735fd33ae820fad9063f3a214b0",
+      "t": 11600,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-08-15T13:42:41.000Z",
+      "zip": "00011600_STEAM_0_1_87291981_20260815-134241.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_enemy_easy-20260815-#PS4Y90BRJ.dem",
+          "off": 73,
+          "size": 106154
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_enemy_easy-20260815-#PS4Y90BRJ.analysis.json",
+          "off": 106310,
+          "size": 257267
+        },
+        {
+          "type": "replay",
+          "name": "82412.replay.xz",
+          "off": 363622,
+          "size": 32708
+        }
+      ]
+    }
+  ]
+}
