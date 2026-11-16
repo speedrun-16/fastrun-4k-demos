@@ -1,7 +1,7 @@
 {
   "category": 13,
   "categoryName": "4K Run",
-  "updatedAt": "2026-08-15T18:00:06.132Z",
+  "updatedAt": "2026-11-16T18:00:01.322Z",
   "maps": {
     "speedrun_calisto2k": {
       "n": 1,
@@ -98,6 +98,12 @@
       "best": 2640,
       "at": "2026-01-29T13:38:22Z",
       "manifest": "maps/speedrun_ramp-master_ex/manifest.json"
+    },
+    "speedrun_df_kool_mini7": {
+      "n": 1,
+      "best": 9040,
+      "at": "2026-11-16T17:04:49.000Z",
+      "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "deathrun_rock-n-run_remix": {
       "n": 1,

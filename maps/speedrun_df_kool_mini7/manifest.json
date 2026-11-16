@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_df_kool_mini7",
+  "updatedAt": "2026-11-16T18:00:01.322Z",
+  "runs": [
+    {
+      "uid": "GRDLFTIYY",
+      "rid": 98327,
+      "hash": "1ee2412906dff6f114d9687cbbd9fa6de6c2ecc5d398fcc1dec48498b9a90f1f",
+      "t": 9040,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-11-16T17:04:49.000Z",
+      "zip": "00009040_STEAM_0_1_87291981_20261116-170449.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_kool_mini7-20261116-#GRDLFTIYY.dem",
+          "off": 76,
+          "size": 97947
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_kool_mini7-20261116-#GRDLFTIYY.analysis.json",
+          "off": 98109,
+          "size": 230876
+        },
+        {
+          "type": "replay",
+          "name": "98327.replay.xz",
+          "off": 329030,
+          "size": 28316
+        }
+      ]
+    }
+  ]
+}

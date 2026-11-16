@@ -6,9 +6,9 @@ Personal best demo archive for the 4K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 19 |
-| Archived PBs | 21 |
-| Latest Update | 2026-08-15 |
+| Maps | 20 |
+| Archived PBs | 22 |
+| Latest Update | 2026-11-16 |
 
 ## Structure
 
